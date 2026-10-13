@@ -1,0 +1,6 @@
+{
+  "name": "SyncShot 워크숍 실시간 사진 공유",
+  "description": "워크숍 참가자들이 실시간으로 사진을 업로드하고 즉시 함께 보는 동기화 갤러리 & 프레젠테이션 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
